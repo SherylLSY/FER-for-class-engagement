@@ -1,4 +1,5 @@
-#https://github.com/charlielito/vision-sentiment-analysis-googleapi
+#for getting emotion
+
 import io, os
 import cv2
 import numpy as np
