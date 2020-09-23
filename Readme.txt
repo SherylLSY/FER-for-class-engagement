@@ -1,3 +1,4 @@
+need Google Vision Api Credentials
 
 sv.py for convert video to frames and resize
 emotion.py for getting emotion
