@@ -1,3 +1,5 @@
+#convert video to frames and resize
+
 import cv2
 import glob
 from PIL import Image
